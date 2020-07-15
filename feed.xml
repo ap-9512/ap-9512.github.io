@@ -10,6 +10,31 @@
     <id>https://ap-9512.github.io</id>
 
     <entry>
+        <title>My First Voice Test!!</title>
+        <author>
+            <name>AP</name>
+        </author>
+        <link href="https://ap-9512.github.io/my-first-voice-test.html"/>
+        <id>https://ap-9512.github.io/my-first-voice-test.html</id>
+
+        <updated>2020-07-15T11:49:08+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Okay so lets see how this will work. Now this is a new file format. I don't really know which browser/s supports these file formats. Your browser does not support the audio element. May god bless me with this journey. I'm thankful to him. My&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Okay so lets see how this will work. Now this is a new file format. I don't really know which browser/s supports these file formats.</p>
+<p><audio loading="lazy" controls="controls" controlslist="nodownload" src="https://github.com/ap-9512/audio/blob/master/test-record.m4a?raw=true">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio></p>
+<p>May god bless me with this journey. I'm thankful to him. My only prayer is <em>"Please don't trouble my parents &amp; Sister with anything, if you want solution for any problem inflict that upon me. But remember: there shouldn't be any trouble for my family as they cannot take anything which is naive."</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Test for uploading Audio Files</title>
         <author>
             <name>AP</name>
@@ -17,7 +42,7 @@
         <link href="https://ap-9512.github.io/test-for-uploading-audio-files.html"/>
         <id>https://ap-9512.github.io/test-for-uploading-audio-files.html</id>
 
-        <updated>2020-07-15T11:34:32+05:30</updated>
+        <updated>2020-07-15T11:49:08+05:30</updated>
             <summary>
                 <![CDATA[
                     So there you go: This audio file was one of my favorite music. Disclaimer: I am not the owner of this file but I am not able to post the link here because I only have a download and forgot from where I've downloaded this.
@@ -49,7 +74,7 @@ Your browser does not support the audio element.</audio></p>
         <link href="https://ap-9512.github.io/my-first-post.html"/>
         <id>https://ap-9512.github.io/my-first-post.html</id>
 
-        <updated>2020-07-15T11:34:32+05:30</updated>
+        <updated>2020-07-15T11:49:08+05:30</updated>
             <summary>
                 <![CDATA[
                     Alright, this will be a test post for my journal, which probably will be a voice recorded one so as to save time. I also think it will help me to improve my speaking skills. As this is an anonymous website, I will be true&hellip;
