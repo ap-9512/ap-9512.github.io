@@ -14,14 +14,14 @@
             "url": "https://ap-9512.github.io/test-for-uploading-audio-files.html",
             "title": "Test for uploading Audio Files",
             "summary": "So there you go: This audio file was one of my favorite music. Disclaimer: I am not the owner of this file but I am not able to post the link here because I only have a download and forgot from where I've downloaded this.",
-            "content_html": "<p>So there you go:</p>\n<p>This audio file was one of my favorite music.</p>\n<p>Disclaimer: I am not the owner of this file but I am not able to post the link here because I only have a download and forgot from where I've downloaded this.</p>\n<p><audio loading=\"lazy\" controls=\"controls\">\n  <source src=\"https://github.com/ap-9512/audio/blob/master/hip-hop-beat.mp3?raw=true\" type=\"audio/mp3\" />\nYour browser does not support the audio element.</audio></p>\n<p>So lets see if this will work.</p>\n<p>I am very excited!!</p>\n<p>Thank you god for helping me with this concept. 😊</p>",
+            "content_html": "<p>So there you go:</p>\n<p>This audio file was one of my favorite music.</p>\n<p>Disclaimer: I am not the owner of this file but I am not able to post the link here because I only have a download and forgot from where I've downloaded this.</p>\n<p><audio loading=\"lazy\" controls=\"controls\">\n  <source src=\"https://github.com/ap-9512/audio/blob/master/hip-hop-beat.mp3?raw=true\" type=\"audio/mp4\" />\nYour browser does not support the audio element.</audio></p>\n<p>So lets see if this will work.</p>\n<p>I am very excited!!</p>\n<p>Thank you god for helping me with this concept. 😊</p>\n<h2>Okay my learnings:</h2>\n<p>I've tested this concept and it only works on Google chrome, Mozilla!</p>\n<p>You might ask me why I'm checking browser compatibility if the website is not for general public: The answer is \"Yes, it is not for public for now! But, in future if I feel like publishing the website, I cannot simply keep on editing the posts for ever!!\"</p>\n<p>And by the way I have tried opening this website preview on edge and the whole website itself is dirty, how can I expect it to play my audio file??😁</p>",
             "author": {
                 "name": "AP"
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T11:24:24+05:30",
-            "date_modified": "2020-07-15T11:24:24+05:30"
+            "date_published": "2020-07-15T11:34:32+05:30",
+            "date_modified": "2020-07-15T11:34:32+05:30"
         },
         {
             "id": "https://ap-9512.github.io/my-first-post.html",
@@ -34,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T11:24:24+05:30",
-            "date_modified": "2020-07-15T11:24:24+05:30"
+            "date_published": "2020-07-15T11:34:32+05:30",
+            "date_modified": "2020-07-15T11:34:32+05:30"
         }
     ]
 }
