@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ap-9512.github.io/16-july-2020.html",
+            "url": "https://ap-9512.github.io/16-july-2020.html",
+            "title": "16 July 2020",
+            "summary": " Your browser does not support the audio element. Clarification: I wanted to write this quote yesterday itself(Actually I framed this a few days ago): If you can't apologize, you can't forgive If you can't forgive, you can't grow Om Namah Sivaya 🕉🙏",
+            "content_html": "<p><audio loading=\"lazy\" controls=\"controls\" controlslist=\"nodownload\" src=\"https://github.com/ap-9512/audio/blob/master/16-jul-20.m4a?raw=true\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio></p>\n<p>Clarification:</p>\n<ul>\n<li>I loved cooking, but the Paratha was okay.</li>\n<li>Prayers were heard.</li>\n<li>If I keep my calmness and coolness, then I can bring back all the happiness in my mother's life may be by becoming IAS or by not being angry myself etc.</li>\n</ul>\n<p>I wanted to write this quote yesterday itself(Actually I framed this a few days ago):</p>\n<blockquote>\n<p>If you can't apologize, you can't forgive</p>\n<p>If you can't forgive, you can't grow</p>\n</blockquote>\n<p class=\"msg msg--success\"><em>Om Namah Sivaya </em>🕉🙏</p>",
+            "author": {
+                "name": "AP"
+            },
+            "tags": [
+                   "day"
+            ],
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
+        },
+        {
             "id": "https://ap-9512.github.io/about-my-porn-habit.html",
             "url": "https://ap-9512.github.io/about-my-porn-habit.html",
             "title": "About my porn habit",
@@ -21,8 +36,8 @@
             "tags": [
                    "porn"
             ],
-            "date_published": "2020-07-15T18:07:04+05:30",
-            "date_modified": "2020-07-15T18:07:04+05:30"
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
         },
         {
             "id": "https://ap-9512.github.io/15-july-2020.html",
@@ -36,8 +51,8 @@
             "tags": [
                    "day"
             ],
-            "date_published": "2020-07-15T18:07:04+05:30",
-            "date_modified": "2020-07-15T18:07:04+05:30"
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
         },
         {
             "id": "https://ap-9512.github.io/my-first-voice-test.html",
@@ -50,8 +65,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T18:07:04+05:30",
-            "date_modified": "2020-07-15T18:07:04+05:30"
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
         },
         {
             "id": "https://ap-9512.github.io/test-for-uploading-audio-files.html",
@@ -64,8 +79,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T18:07:04+05:30",
-            "date_modified": "2020-07-15T18:07:04+05:30"
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
         },
         {
             "id": "https://ap-9512.github.io/my-first-post.html",
@@ -78,8 +93,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-15T18:07:04+05:30",
-            "date_modified": "2020-07-15T18:07:04+05:30"
+            "date_published": "2020-07-16T10:03:59+05:30",
+            "date_modified": "2020-07-16T10:03:59+05:30"
         }
     ]
 }
